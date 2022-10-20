@@ -1,6 +1,6 @@
 package Do_Test;
 
-class Animal {
+class Animal1 {
 	String name;
 	
 	public void setName(String name) {
@@ -10,13 +10,12 @@ class Animal {
 	
 }
 
-
 public class A1_Class {
 	public static void main(String[] args) {
-		Animal cat = new Animal(); // cat 객체 생성
+		Animal1 cat = new Animal1(); // cat 객체 생성
 		cat.setName("boby"); // 메소드 호출 / cat 객체에 boby 이름 생성
 		
-		Animal dog = new Animal(); // dog 객체 생성
+		Animal1 dog = new Animal1(); // dog 객체 생성
 		dog.setName("happy");
 		
 		System.out.println(cat.name);
