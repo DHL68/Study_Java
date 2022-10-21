@@ -13,3 +13,9 @@ link : https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3
 
 [자바 심화 강의 : 뉴렉처]
 link : https://www.youtube.com/watch?v=tvciu9_jHjQ&list=PLq8wAnVUcTFV4ZjRbyGnw6T1tgmYDLM3P
+
+[자바 API 자료]  
+link : https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html
+
+[자바 기초 문법 강의]
+link : https://school.programmers.co.kr/learn/courses/9
