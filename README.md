@@ -19,3 +19,6 @@ link : https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html
 
 [자바 기초 문법 강의]
 link : https://school.programmers.co.kr/learn/courses/9
+
+[자바 추상 클래스란?]  
+link : https://limkydev.tistory.com/188
