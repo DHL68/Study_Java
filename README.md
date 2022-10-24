@@ -17,7 +17,7 @@ link : https://www.youtube.com/watch?v=tvciu9_jHjQ&list=PLq8wAnVUcTFV4ZjRbyGnw6T
 [자바 API 자료]  
 link : https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html
 
-[자바 기초 문법 강의]
+[자바 기초 문법 강의]  
 link : https://school.programmers.co.kr/learn/courses/9
 
 [자바 추상 클래스란?]  
