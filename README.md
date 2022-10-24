@@ -22,3 +22,6 @@ link : https://school.programmers.co.kr/learn/courses/9
 
 [자바 추상 클래스란?]  
 link : https://limkydev.tistory.com/188
+
+[자바 인터페이스란?]  
+link : https://limkydev.tistory.com/197
